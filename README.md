@@ -1,5 +1,4 @@
-# Php-tp-facturation
-Lecture et enregistrement de code barres , calcul des marchandises (quantité, tva) 
+# Php-tp-facturation 
 SYSTÈME DE FACTURATION AVEC LECTEUR CODES-BARRES
   Travaux Pratiques PHP — L2 FASI 2025-2026
   Université Protestante au Congo
