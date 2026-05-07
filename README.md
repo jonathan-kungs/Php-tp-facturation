@@ -4,6 +4,12 @@ SYSTÈME DE FACTURATION AVEC LECTEUR CODES-BARRES
   Université Protestante au Congo
 ====================================================
 
+Membres du groupe : 
+MUKAMBA LUMBALA JEHOVAH-NI
+KUNGERWA Akili Jonathan 
+TOENGAHO NYAVITA SARAH
+
+
 PRÉREQUIS
 ---------
 - PHP 8.0 ou supérieur
